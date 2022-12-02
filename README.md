@@ -1,5 +1,5 @@
 
-<h1>Author: Mithun Ghosh</h1>
+<h1>Author: Lang Wu</h1>
 <h2> Instruction to run the code:</h2>
 </p2>Run the Colab file <a href="NIH.ipynb"> here </a>.. The presentation of this project is also <a href="SalaryData_presentation_Ghosh_Mithun.pptx"> here </a>..</p2>
 <h1> Imbalaced-Class-classification-by-model-Ensembling-of-Machine-Learning-Algorithm</h1>
