@@ -1,7 +1,7 @@
 
 <h1>Author: Lang Wu</h1>
 <h2> Instruction to run the code:</h2>
-</p2>Run the Colab file <a href="NIH.ipynb"> here </a>.. The presentation of this project is also <a href="SalaryData_presentation_Ghosh_Mithun.pptx"> here </a>..</p2>
+</p2>Run the Colab file <a href="NIH.ipynb"> here </a>.. The presentation of this project is also <a href="SalaryData_presentation_Lang_Wu.pptx"> here </a>..</p2>
 <h1> Imbalaced-Class-classification-by-model-Ensembling-of-Machine-Learning-Algorithm</h1>
 
 <p1>The Purpose of this project is to build a classification predictive model, with the response being whether the salary is in the top quartile or not.
